@@ -1,0 +1,31 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
+html {
+
+	min-width: 320px;
+
+}
+
+* {
+
+	margin: 0;
+	padding: 0;
+
+}
+
+ul {
+
+	list-style: none;
+
+}
+
+a {
+
+	text-decoration: none;
+
+}
